@@ -22,4 +22,4 @@ console.log(email.includes("@"));  // Devulve true
 const palabra = "Hola mundo, bienvenidos al curso de Desarrollo Web completo";
 console.log(palabra.indexOf("mundo"));  // Devuelve la posición inicial de la palabra, si no la encuentra devuelve -1
 // Includes retorna true o false
-console.log(palabra.includes("mund
+console.log(palabra.includes("mundo"));  // Devuelve true
