@@ -16,7 +16,7 @@ producto.imagen = "foto.jpg";
 // console.log(precioProducto);
 // console.log(nombreProducto);
 
-// Dsetructuring
+// Destructuring
 const {precio} = producto;  // Creamos la variable y extraemos el valor de la propiedad 'precio' del objeto 'producto' de una manera mas sencilla
 const {nombreProducto, imagen, disponible} = producto;  // Podemos crear varias variables al mismo tiempo
 // Con destructuring las variables deben llamarse igual que las popiedades del objeto

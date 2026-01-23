@@ -5,8 +5,8 @@
 // const disponible = true;
 
 //Parcido a los dictionarios en Python
-const producto = {
-    nombreProducto: "Monitor de 20' Pulgadas",
+const producto = {  // Objeto
+    nombreProducto: "Monitor de 20' Pulgadas",  // Propiedades
     precio: 300,
     disponible: true,
 }
